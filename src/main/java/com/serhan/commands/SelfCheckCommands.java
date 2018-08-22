@@ -1,4 +1,4 @@
-package com.serhan.springbootcli.commands;
+package com.serhan.commands;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.shell.standard.ShellComponent;

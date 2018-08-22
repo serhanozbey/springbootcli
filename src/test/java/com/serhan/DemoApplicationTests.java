@@ -1,4 +1,4 @@
-package com.serhan.springbootcli;
+package com.serhan;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

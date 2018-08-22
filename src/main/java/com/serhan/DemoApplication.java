@@ -1,4 +1,4 @@
-package com.serhan.springbootcli;
+package com.serhan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
